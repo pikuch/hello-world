@@ -1,4 +1,5 @@
 # hello-world
 My first repository
 
-Nothing much around here
+Just testing basic features
+
